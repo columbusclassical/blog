@@ -26,8 +26,3 @@ title = "On What Makes a School Excellent"
 path = "welcome.html"
 url = "/welcome.html"
 title = "Welcome!"
-
-[[input.files]]
-path = "test.html"
-url = "/test.html"
-title = "Test"

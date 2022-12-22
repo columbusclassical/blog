@@ -12,6 +12,9 @@ _One-time setup instructions._
   - `mkdir pelican-plugins`
   - `cd pelican-plugins`
   - `git clone https://github.com/ingwinlu/pelican-toc.git`
+- Modify Papyrus theme:
+  - `templates/base.html`
+    - update footer
 - Update `pelicanconf.py` settings
 - Update repository settings:
   - Settings > Pages > Branch > Main > /docs > Save
@@ -21,4 +24,6 @@ _One-time setup instructions._
 ## Publish Site
 - `cd blog`
 - `make publish`
+- delete `docs/`
+- rename `output/` to `docs/`
 - commit and push changes
