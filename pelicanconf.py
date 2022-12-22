@@ -43,6 +43,8 @@ TOC = {
 # AUTHOR_FEED_RSS = None
 # RSS_FEED_SUMMARY_ONLY = True
 
+# ARTICLE_URL = '{date:%Y}/{date:%m}/{date:%d}/{slug}/'
+
 # Social widgets
 SOCIAL = (
     ('linkedin', 'https://www.linkedin.com/company/columbus-classical-academy'),

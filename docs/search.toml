@@ -23,6 +23,26 @@ url = "/on-what-makes-a-school-excellent.html"
 title = "On What Makes a School Excellent"
 
 [[input.files]]
+path = "were-in-contract.html"
+url = "/were-in-contract.html"
+title = "We're In Contract!"
+
+[[input.files]]
+path = "applications-now-open.html"
+url = "/applications-now-open.html"
+title = "Applications Now Open!"
+
+[[input.files]]
+path = "cca-announces-our-academic-dean.html"
+url = "/cca-announces-our-academic-dean.html"
+title = "CCA Announces Our Academic Dean"
+
+[[input.files]]
 path = "welcome.html"
 url = "/welcome.html"
 title = "Welcome!"
+
+[[input.files]]
+path = "cca-announces-our-headmaster.html"
+url = "/cca-announces-our-headmaster.html"
+title = "CCA Announces Our Headmaster"
