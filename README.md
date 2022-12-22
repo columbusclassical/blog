@@ -1,2 +1,24 @@
-# blog
-Columbus Classical Academy Blog
+# Columbus Classical Academy Blog
+
+## Setup
+_One-time setup instructions._
+
+- Create `blog/` repo and clone
+- Install [Pelican](https://getpelican.com/#quickstart)
+- Set up [Papyrus](https://aleylara.github.io/Papyrus/installation.html) theme
+  - `mkdir themes`
+  - `cd themes`
+  - `git clone https://github.com/aleylara/Papyrus.git` (Actually, I cloned it elsewhere and copy/pasted the docs into the blog folder. I want to edit this theme and version control the edits.)
+  - `mkdir pelican-plugins`
+  - `cd pelican-plugins`
+  - `git clone https://github.com/ingwinlu/pelican-toc.git`
+- Update `pelicanconf.py` settings
+- Update repository settings:
+  - Settings > Pages > Branch > Main > /docs > Save
+  - Check "Enforce HTTPS"
+
+
+## Publish Site
+- `cd blog`
+- `make publish`
+- commit and push changes

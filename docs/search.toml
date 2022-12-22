@@ -1,0 +1,33 @@
+[input]
+base_directory = "/Users/matthewkudija/code/cca-blog/output"
+html_selector = "main"
+
+[[input.files]]
+path = "on-the-importance-of-struggle-in-a-good-education.html"
+url = "/on-the-importance-of-struggle-in-a-good-education.html"
+title = "On the Importance of Struggle in a Good Education"
+
+[[input.files]]
+path = "on-holding-sudents-emotions-accountable-to-the-truth.html"
+url = "/on-holding-sudents-emotions-accountable-to-the-truth.html"
+title = "On Holding Sudents’ Emotions Accountable to the Truth"
+
+[[input.files]]
+path = "on-the-humble-pursuit-of-true-beauty.html"
+url = "/on-the-humble-pursuit-of-true-beauty.html"
+title = "On the Humble Pursuit of True Beauty"
+
+[[input.files]]
+path = "on-what-makes-a-school-excellent.html"
+url = "/on-what-makes-a-school-excellent.html"
+title = "On What Makes a School Excellent"
+
+[[input.files]]
+path = "welcome.html"
+url = "/welcome.html"
+title = "Welcome!"
+
+[[input.files]]
+path = "test.html"
+url = "/test.html"
+title = "Test"
