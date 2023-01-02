@@ -1,6 +1,7 @@
 Title: On the Humble Pursuit of True Beauty
 Date: 2022-12-08 10:00 
 Category: Headmaster's Notes
+Author: Daniel C. Gibson
 
 Believe that “beauty is in the eye of the beholder”? That Notre Dame Cathedral is considered more beautiful than a strip mall only on account of prevailing social norms? That when it comes to matters of aesthetics, “to each his own”?
 

@@ -1,6 +1,7 @@
 Title: On Holding Sudents’ Emotions Accountable to the Truth
 Date: 2022-12-15 10:00
 Category: Headmaster's Notes
+Author: Daniel C. Gibson
 
 Ever wonder why disagreement now seems impossible? Why debate only leads to greater conflict, not greater clarity? It is the inevitable consequence of generations of Americans being taught to seek and to love themselves rather than the truth.
 

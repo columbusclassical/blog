@@ -1,6 +1,7 @@
 Title: On What Makes a School Excellent
 Date: 2022-12-01 10:00 
 Category: Headmaster's Notes
+Author: Daniel C. Gibson
 
 What makes a school excellent? It starts with a recognition that equality “has no place in the world of the mind”. Yes, all men are created equal. But their ideas, philosophies, art, literature, governments, cultures are not. Sound pretentious, even anti-democratic? Consider the alternative.
 

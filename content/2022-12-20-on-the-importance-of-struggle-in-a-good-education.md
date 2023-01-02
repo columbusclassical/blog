@@ -1,6 +1,7 @@
 Title: On the Importance of Struggle in a Good Education
 Date: 2022-12-20 10:00 
 Category: Headmaster's Notes
+Author: Daniel C. Gibson
 
 Shouldn’t school be fun? Don’t children do better when they are having a good time? Why must an excellent education be difficult? Despite appearances, these are questions of ends, not means—of purpose, not pedagogy.
 

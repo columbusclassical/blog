@@ -12,23 +12,7 @@ Welcome, Mr. Gibson!
 
 Learn more on our <a href="https://columbusclassical.org/faculty-staff.html" target="_blank">Faculty & Staff page</a>, or read Mr. Gibson's <a href="https://columbusclassical.org/welcome.html">welcome message</a>.
 
-<center>
-
-
-
-</center>
-
 
 <center>
-
-<br>
-
 <img src="https://columbusclassical.org/images/faculty-staff/dan.jpg" width="300 px">
-
-<br>
-
-<img src="https://columbusclassical.org/images/dgibson.jpg" width="300 px">
-
-<p>Daniel Gibson, <em>Headmaster</em></p>
-
 </center>

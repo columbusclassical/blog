@@ -1,4 +1,4 @@
-AUTHOR = 'Daniel Gibson'
+AUTHOR = 'Columbus Classical Academy'
 SITENAME = 'CCA Blog'
 SITEURL = 'https://columbusclassical.org/blog'
 TIMEZONE = 'US/Eastern'
@@ -9,7 +9,7 @@ SUBTEXT = '''Welcome to the Columbus Classical Academy blog.<br>
  Here we will share news and reflections on classical education.<br>
  <i>Veritas et Virtus</i>
 '''
-COPYRIGHT = '©2022 Columbus Classical Academy'
+COPYRIGHT = '©2023 Columbus Classical Academy'
 PATH = 'content'
 OUTPUT_PATH = 'docs/'
 THEME = 'themes/Papyrus'

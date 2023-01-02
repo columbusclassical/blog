@@ -3,6 +3,11 @@ base_directory = "/Users/matthewkudija/code/cca-blog/output"
 html_selector = "main"
 
 [[input.files]]
+path = "new-year-old-truths-an-invitation-from-columbus-classical-academy.html"
+url = "/new-year-old-truths-an-invitation-from-columbus-classical-academy.html"
+title = "New Year, Old Truths: An Invitation from Columbus Classical Academy"
+
+[[input.files]]
 path = "on-the-importance-of-struggle-in-a-good-education.html"
 url = "/on-the-importance-of-struggle-in-a-good-education.html"
 title = "On the Importance of Struggle in a Good Education"
