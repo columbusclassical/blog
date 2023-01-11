@@ -3,6 +3,11 @@ base_directory = "/Users/matthewkudija/code/cca-blog/output"
 html_selector = "main"
 
 [[input.files]]
+path = "on-the-enduring-importance-of-humble-virtue.html"
+url = "/on-the-enduring-importance-of-humble-virtue.html"
+title = "On the Enduring Importance of Humble Virtue"
+
+[[input.files]]
 path = "new-year-old-truths-an-invitation-from-columbus-classical-academy.html"
 url = "/new-year-old-truths-an-invitation-from-columbus-classical-academy.html"
 title = "New Year, Old Truths: An Invitation from Columbus Classical Academy"
