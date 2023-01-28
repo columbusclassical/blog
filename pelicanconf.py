@@ -1,13 +1,15 @@
 AUTHOR = 'Columbus Classical Academy'
-SITENAME = 'CCA Blog'
+SITENAME = 'Veritas et Virtus'
 SITEURL = 'https://columbusclassical.org/blog'
 TIMEZONE = 'US/Eastern'
 DEFAULT_LANG = 'en'
 
-SUBTITLE = 'Columbus Classical Academy Blog'
-SUBTEXT = '''Welcome to the Columbus Classical Academy blog.<br>
+
+
+SUBTITLE = '''<a href="https://columbusclassical.org/" target="_blank"><img src="https://raw.githubusercontent.com/columbusclassical/columbusclassical.github.io/fedeb5b6554baaf9ca467a7fca76daf3b2da0c8b/images/logos/Logo%202c_horz.svg" width="250px" height="30px"></a>
+<br>Veritas et Virtus'''
+SUBTEXT = '''Welcome to <strong><em>Veritas et Virtus</em></strong>, the <a href="https://columbusclassical.org/" target="_blank" style="border-bottom: dotted 1px;">Columbus Classical Academy</a> blog.<br>
  Here we will share news and reflections on classical education.<br>
- <i>Veritas et Virtus</i>
 '''
 COPYRIGHT = '©2023 Columbus Classical Academy'
 PATH = 'content'
