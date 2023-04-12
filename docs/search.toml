@@ -3,6 +3,11 @@ base_directory = "/Users/matthewkudija/code/cca-blog/output"
 html_selector = "main"
 
 [[input.files]]
+path = "on-the-liberating-constraints-of-truth-and-virtue.html"
+url = "/on-the-liberating-constraints-of-truth-and-virtue.html"
+title = "On the Liberating Constraints of Truth and Virtue"
+
+[[input.files]]
 path = "on-the-place-of-the-political-and-the-transcendent-in-education.html"
 url = "/on-the-place-of-the-political-and-the-transcendent-in-education.html"
 title = "On the Place of the Political and the Transcendent in Education"
