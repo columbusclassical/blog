@@ -3,6 +3,11 @@ base_directory = "/Users/matthewkudija/code/cca-blog/output"
 html_selector = "main"
 
 [[input.files]]
+path = "on-the-peculiar-importance-of-teaching-useless-knowledge.html"
+url = "/on-the-peculiar-importance-of-teaching-useless-knowledge.html"
+title = "On the Peculiar Importance of Teaching “Useless” Knowledge"
+
+[[input.files]]
 path = "on-the-liberating-constraints-of-truth-and-virtue.html"
 url = "/on-the-liberating-constraints-of-truth-and-virtue.html"
 title = "On the Liberating Constraints of Truth and Virtue"
