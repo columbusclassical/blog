@@ -4,6 +4,9 @@ Category: Headmaster's Notes
 Author: Daniel C. Gibson
 
 
+![federalist]({attach}images/2023-04-25-federalist.png)
+
+
 View children as “little angels?” Believe they are naturally good, needing only to be encouraged to grow? This is the false foundation of progressive education—and it has profound implications for self-government.
 
 Thinkers like Rousseau, Froebel, and Dewey changed the course of education in the West, introducing terms like “kindergarten” (a “garden of children”) and planting the seeds for the now-ubiquitous “growth mindset.” No wonder our never-ending “crisis” of democracy comes with a complete breakdown of behavioral norms in our schools. As C.S. Lewis recognized, we’ve placed the justification for self-government entirely on the wrong foundation:

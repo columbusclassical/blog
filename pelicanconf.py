@@ -14,6 +14,7 @@ SUBTEXT = '''Welcome to <strong><em>Veritas et Virtus</em></strong>, the <a href
 COPYRIGHT = '©2023 Columbus Classical Academy'
 PATH = 'content'
 OUTPUT_PATH = 'docs/'
+STATIC_PATHS = ['images']
 THEME = 'themes/Papyrus'
 THEME_STATIC_PATHS = ['static']
 PLUGIN_PATHS = ['pelican-plugins']
@@ -39,6 +40,7 @@ TOC = {
 
 # Feed generation is usually not desired when developing
 # FEED_ALL_ATOM = 'feeds/all.atom.xml'
+
 # CATEGORY_FEED_ATOM = None
 # TRANSLATION_FEED_ATOM = None
 # AUTHOR_FEED_ATOM = None
