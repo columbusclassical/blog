@@ -3,6 +3,11 @@ base_directory = "/Users/matthewkudija/code/cca-blog/output"
 html_selector = "main"
 
 [[input.files]]
+path = "on-the-foundations-of-self-government.html"
+url = "/on-the-foundations-of-self-government.html"
+title = "On the Foundations of Self-Government"
+
+[[input.files]]
 path = "on-the-peculiar-importance-of-teaching-useless-knowledge.html"
 url = "/on-the-peculiar-importance-of-teaching-useless-knowledge.html"
 title = "On the Peculiar Importance of Teaching “Useless” Knowledge"
