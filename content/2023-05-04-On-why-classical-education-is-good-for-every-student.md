@@ -4,7 +4,7 @@ Category: Headmaster's Notes
 Author: Daniel C. Gibson
 
 
-![federalist]({attach}images/2023-05-04.png)
+![2023-05-04]({attach}images/2023-05-04.jpg)
 
 
 Are you inclined to think that the “life of the mind” is for scholars and savants? Have a nagging suspicion that classical education is for the leisure class and the literati, but not for the ordinary, American citizen? Nothing could be further from the truth. 
