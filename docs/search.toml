@@ -3,6 +3,11 @@ base_directory = "/Users/matthewkudija/code/cca-blog/output"
 html_selector = "main"
 
 [[input.files]]
+path = "on-why-classical-education-is-good-for-every-student.html"
+url = "/on-why-classical-education-is-good-for-every-student.html"
+title = "On Why Classical Education is Good for Every Student"
+
+[[input.files]]
 path = "on-the-foundations-of-self-government.html"
 url = "/on-the-foundations-of-self-government.html"
 title = "On the Foundations of Self-Government"
